@@ -50,7 +50,7 @@ ls -l
 
 ## 📸 Practice Screenshot
 
-Add your terminal screenshot here.
+day1 linux practice screenshot here.
 
 ```markdown
 ![Linux Practice](day1-linux-practice.png)
