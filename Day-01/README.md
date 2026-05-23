@@ -53,5 +53,5 @@ ls -l
 Add your terminal screenshot here.
 
 ```markdown
-![Linux Practice](screenshot.png)
+![Linux Practice](day1-linux-practice.png)
 ```
