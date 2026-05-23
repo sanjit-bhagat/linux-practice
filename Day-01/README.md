@@ -53,5 +53,5 @@ ls -l
 day1 linux practice screenshot here.
 
 ```markdown
-![Linux Practice](day1-linux-practice.png)
+![Linux Practice](Day-01/day1-linux-practice.png)
 ```
