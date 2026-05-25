@@ -23,3 +23,5 @@ employee-records/
 ├── sales/
 ├── reports/
 └── archive/
+
+![Linux Practice](day2-linux-practice.png)
