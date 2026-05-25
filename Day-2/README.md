@@ -24,4 +24,6 @@ employee-records/
 ├── reports/
 └── archive/
 
-![Linux Practice](day2-linux-practice.png.png)
+## Screenshot
+
+![Linux Practice](day2-linux-practice.png)
