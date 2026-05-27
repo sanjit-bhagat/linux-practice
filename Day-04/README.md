@@ -31,7 +31,7 @@ ecommerce-monitoring/
 ## 📸 Practice Screenshot
 
 ```md
-![Linux Practice](screenshot.png)
+![Linux Practice](day4-linux-practice.png)
 ```
 
 
